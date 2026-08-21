@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: a8a24bfade6cf9f41b25938e7721d1b8
+timeCreated: 1517477227
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39121
+  packageName: White Swimmer 10686 Tris
+  packageVersion: 1.0
+  assetPath: Assets/WS_10686tris/Single_models/Materials/WS_briefs_D.mat
+  uploadId: 227531

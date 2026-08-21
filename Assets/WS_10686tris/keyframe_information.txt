@@ -1,0 +1,6 @@
+backstroke (frame 0-28)
+backstroke start (frame 29-75)
+breaststroke (frame 76-101)
+butterfly (frame 102-127)
+freestyle (frame 128-157)
+freestyle start (frame 158-195)

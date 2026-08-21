@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 501f36c3923d78840a02b628be254b20
+timeCreated: 1434036036
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 39121
+  packageName: White Swimmer 10686 Tris
+  packageVersion: 1.0
+  assetPath: Assets/WS_10686tris/keyframe_information.txt
+  uploadId: 227531
